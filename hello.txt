@@ -1,6 +1,11 @@
 hello jacy!hello git!
+<<<<<<< HEAD
 hello jacy!hello git!22222
 hello jacy!hello git!33333
+=======
+hello jacy!hello git!222222222
+hello jacy!hello git!
+>>>>>>> hot-fix
 hello jacy!hello git!
 hello jacy!hello git!
 hello jacy!hello git!
